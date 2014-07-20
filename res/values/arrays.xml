@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="left_drawer" >
+        <item>收    藏</item>
+        <item>搜    索</item>
+        <item>草稿箱</item>
+        <item>小工具</item>
+        <item>已下载</item>
+        <item>设    置</item>
+        <item>退    出</item>
+    </string-array>
+</resources>

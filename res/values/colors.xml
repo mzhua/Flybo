@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 微博列表中的组件颜色-->
+    <color name="content_user_name">#191970</color>
+    <color name="status_list_item_pressed">#7ccdea</color>
+    <color name="status_list_item_unpressed">#ffffff</color>
+    <color name="status_list_background">#ffe8e8e8</color>
+    <color name="status_list_devider">#ffe8e8e8</color>
+
+    <!--drawerlayout -->
+    <color name="drawer_layout_background">#ffe8e8e8</color>
+</resources>

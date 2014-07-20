@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="@string/setting_preference_basesetting">
+        <CheckBoxPreference android:title="@string/setting_preference_auto_refresh" android:key="auto_refresh" android:defaultValue="true"/>
+        <CheckBoxPreference android:title="@string/setting_preference_auto_load" android:key="auto_load" android:defaultValue="false"/>
+        <EditTextPreference  android:dialogTitle="最多缓存的微博数" android:negativeButtonText="取消" android:summary="0表示不保存微博数据，下次进入时重新下载" android:positiveButtonText="确定" android:key="pre_key_save_counts" android:title="@string/pre_title_save_counts" android:defaultValue="20"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="账号数据">
+        <Preference android:title="清除缓存" android:key="delete_cache"/>
+        <Preference android:title="注销账号" android:key="logout"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>

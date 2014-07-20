@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".LoginActivity" >
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/button_login" />
+    
+    <Button
+        android:id="@+id/btn_sso_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/btn_login"
+        android:layout_alignParentTop="true"
+        android:text="@string/button_sso_login" />
+    <Button
+        android:id="@+id/button_loginmain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/btn_sso_login"
+        android:layout_alignParentTop="true"
+        android:text="@string/button_loginmain" />
+
+    <Button
+        android:id="@+id/btn_public_timeline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/btn_sso_login"
+        android:text="获取Public_Timeline" />
+    
+    <TextView
+        android:id="@+id/text_access_token_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/btn_public_timeline"
+        android:layout_marginTop="17dp"
+        android:text="access token"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    <TextView
+        android:id="@+id/text_json_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/text_access_token_value"
+        android:layout_marginTop="17dp"
+        android:text="json"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    
+
+</RelativeLayout>

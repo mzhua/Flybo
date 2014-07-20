@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="content_frame_fuubo">false</item>
+    <item type="id" name="layout_btn">false</item>
+    <item type="id" name="btn_refresh">false</item>
+    <item type="id" name="fuubo_btn_divider">false</item>
+    <item type="id" name="btn_new">false</item>
+</resources>
