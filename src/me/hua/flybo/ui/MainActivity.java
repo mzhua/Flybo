@@ -50,6 +50,7 @@ import com.sina.weibo.sdk.openapi.legacy.StatusesAPI;
 import com.sina.weibo.sdk.openapi.legacy.WeiboAPI;
 
 /**
+ * s
  * 程序设计流程和思想：
  * status_list_all这个全局变量很重要,在点击加载更多后，这个里面保存的就是之前已经获取的信息，最后将加载更多获取的拼接上去显示
  * 1、在initView()里面进行界面组件的初始化和对组件的监听器绑定 2、在initDrawerLayout()中加载drawerlayout抽屉菜单

@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/locSDK_3.1-5ccbad5af442bc800d71a85f7824583c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v4-82ccb8b8e3451e13bd0c2fb1df670f7c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/weibosdkcore-5054caa160ec1188fd446a357d80c4cb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/weibosdkcore-6f3da82811390c567ac33168cdf33f89.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v4-9ea28c63ae9610b656f84c1c7e2fdf10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/weibosdk-122e47851f58954b84d8fd23c60f69e3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/baidumapapi_v2_2_0-ea848cd51d01a68420b746e7ecb3442f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/weibosdk-67e9f394d46699a4080c5a8e96d0afbb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/baidumapapi_v2_2_0-802f8608edb00279c9c662ac199ea893.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/locSDK_3.1-17d64f87fb4c1ba67b97afbda24ce81a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/annotations-07c9324c6e3c6693d888f324980e0251.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
